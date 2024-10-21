@@ -8,4 +8,4 @@ The github action workflow will build this docker image and push it to a private
 
 ## To Do
 
-- [] Set up self hosted runners, so that workflows are running on the self hosted runner instead
+- [] Set up [self hosted runners](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners), so that workflows are running on the self hosted runner instead
