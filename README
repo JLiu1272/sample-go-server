@@ -1,0 +1,11 @@
+# Learn Github Actions
+
+This repo is created to learn about Github Actions.
+
+The idea is to create a simple go server. When you hit the endpoint http://localhost:8080, it prints "Hello World".
+
+The github action workflow will build this docker image and push it to a private docker hub.
+
+## To Do
+
+- [] Set up self hosted runners, so that workflows are running on the self hosted runner instead
